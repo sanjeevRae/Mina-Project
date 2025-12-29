@@ -4,7 +4,7 @@ Welcome to the Mina Backend repository! This project provides the backend functi
 
 ## Project Structure
 
-- **Database:** The main database is hosted on [Mina Backend Database](https://mina-backend-1.onrender.com).
+- **Backend:** The main backend is hosted on [Mina Backend](https://mina-backend-1.onrender.com).
 - **Redis Viewer:** Use this viewer to monitor Redis data: [Mina Redis Viewer](https://sanjeevrae.github.io/mina-redis/).
 - **SQLite Viewer:** The SQLite data viewer for inspecting SQLite database : [Mina SQLite Viewer](https://sanjeevrae.github.io/mina-SQLite/).
 - 
